@@ -2,6 +2,12 @@
 ### 짧은 메모와 내가 느낀 감정을 기록하며 하루를 마무리 할 수 있는 다이어리 앱 입니다.
 <br>
 
+
+## 👁️ Preview 
+![1](https://github.com/user-attachments/assets/a4c45972-8267-4c49-9773-16a25ddceaf0)
+<br>
+
+
 ## 🖥️주요 기능 및 구현 사항
 이 프로젝트는 React의 핵심 훅들과 Context API를 활용한 다이어리 웹 애플리케이션입니다.
 <br><br>
@@ -10,10 +16,6 @@ useRouter: Home, New, Diary, Edit 등 주요 페이지 간의 라우팅을 처�
 useEffect: 렌더링 후 전체 혹은 필터링된 데이터를 불러오고 화면에 출력하는 데 사용됩니다.<br>
 useContext: 전역 상태를 관리하여 props 없이도 하위 컴포넌트에서 데이터와 함수를 사용할 수 있도록 합니다.<br>
 useReducer: CRUD 중심의 상태 변경 로직을 리듀서로 구성하여 관리하고, context와 함께 사용됩니다.<br>
-<br>
-
-## 👁️ Preview 
-![1](https://github.com/user-attachments/assets/a4c45972-8267-4c49-9773-16a25ddceaf0)
 <br>
 
 
