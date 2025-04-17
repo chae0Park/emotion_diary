@@ -13,8 +13,7 @@ useReducer: CRUD 중심의 상태 변경 로직을 리듀서로 구성하여 관
 
 
 ## 👁️ Preview 
-![1.jpg](attachment:20c9655c-c93e-4341-b823-cf8dd45c628f:1.jpg)
-
+![1](https://github.com/user-attachments/assets/a4c45972-8267-4c49-9773-16a25ddceaf0)
 
 
 ## 🧱 기술 스택
